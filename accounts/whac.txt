@@ -1,0 +1,12 @@
+[Name]: whac
+[Pass]: f61086940b0148f8ede0dd305d79d616
+[Rights]: 0
+[Exp]: 1775042
+[Health]: 358
+[Potions]: 480
+[Weapon]: 7
+[Weapon2]: null
+[Coins]: 42889141
+[Location]: 1
+[Poisoned]: false
+[Pet]: Super Puff Cloud

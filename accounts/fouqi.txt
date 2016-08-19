@@ -1,0 +1,12 @@
+[Name]: fouqi
+[Pass]: 662149fe54cab2141f757fa26f2b3ac3
+[Rights]: 0
+[Exp]: 10
+[Health]: 100
+[Potions]: 25
+[Weapon]: 1508
+[Weapon2]: null
+[Coins]: 9998003
+[Location]: 1
+[Poisoned]: false
+[Pet]: NO_PET

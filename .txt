@@ -1,0 +1,7 @@
+Tails. 0
+Heads. 1
+Heads. 1
+Heads. 1
+Heads. 1
+Heads Total: 4
+Tails Total: 1

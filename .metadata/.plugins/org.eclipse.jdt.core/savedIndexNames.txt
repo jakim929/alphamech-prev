@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/Users/James/Dropbox/workspace/Alphamech/.metadata/.plugins/org.eclipse.jdt.core
